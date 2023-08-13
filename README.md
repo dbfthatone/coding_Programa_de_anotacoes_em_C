@@ -1,3 +1,3 @@
 # Programa-de-anotacoes-em-C
 
-notas autoadesivas no console. com atualização de tela. 
+Projeto individual da última avaliação da disciplina de coding. "App" de notas no console.
