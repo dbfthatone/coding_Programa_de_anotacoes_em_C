@@ -1,8 +1,6 @@
 # Programa-de-anotacoes-em-C
 
-Desafio simples que fiz no final do 1º período para a última avaliação de CODING pedida pelo professor, na faculdade. Tendo em vista que foi o último projeto de CODING do período, o mesmo visava contemplar todos ou a maioria dos vários conceitos vistos, no caso, além das sintaxes e noções da linguagem C, a prática da tão abordada lógica de programação. No caso, fiz essa brincadeira: Um "app de anotações" em C no console.
-
-Main e arquivo de funções separados e programa com comentários.
+Desafio simples que fiz no final do 1º período para a última avaliação de CODING pedida pelo professor, na faculdade. Tendo em vista que foi o último projeto de CODING do período, o mesmo visava contemplar todos ou a maioria dos vários conceitos vistos, no caso, além das sintaxes e noções da linguagem C, a prática de lógica de programação. No caso, fiz essa brincadeira: Um "app de anotações" em C no console.
 
 IDE: Replit
 
